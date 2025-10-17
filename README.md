@@ -5,7 +5,7 @@
 -->
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=Kosmas Karalis&label=Visitors&color=50C878&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=KaralisKosmas&label=Visitors&color=50C878&style=for-the-badge" />
 </div>
 
 <h1 align="center">
