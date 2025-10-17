@@ -19,11 +19,8 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/{KaralisKosmas}/count.svg" alt="Visitor's Count" />
 </div>
 
-<br>
+<h1 align="center">
+    <font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Kosmas!;" />
+</h1>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
-</p>
-
-<hr>
+### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
