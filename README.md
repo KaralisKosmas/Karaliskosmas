@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">
-   <img src="https://komarev.com/ghpvc/?username=KaralisKosmas&label=Visitors&color=ff69b4&style=flat-square" alt="Visitor count" />
+   <img src="https://komarev.com/ghpvc/?username=KaralisKosmas&label=Visitors&color=Cyan&style=flat-square" alt="Visitor count" />
 </h1>
 
 ### A Computer programming student looking for and Internship.
