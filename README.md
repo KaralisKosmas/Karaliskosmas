@@ -5,7 +5,7 @@
 -->
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Kosmas Karalis/count.svg"/>
+  <img src="https://profile-counter.glitch.me/Kosmas Karalis/count.svg" alt="Visitor's Count" />
 </div>
 
 <h1 align="center">
