@@ -8,9 +8,10 @@
   <img src="https://profile-counter.glitch.me/Kosmas Karalis/count.svg"/>
 </div>
 
-<h1 align="center">
-   <img src="https://komarev.com/ghpvc/?username=KaralisKosmas&label=Visitors&color=50C878&style=flat-square" alt="Visitor count" />
-</h1>
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://komarev.com/ghpvc/?username=Kosmas Karalis&label=Visitors&color=blue&style=for-the-badge" />
+</div>
 
 ### A Computer programming student looking for and Internship.
 
